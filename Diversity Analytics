@@ -1,0 +1,32 @@
+#Predictive HR Analytics Chapter 4
+#Diversity Analytics
+  #Diversity & Inclusion (D&I) helps address equality legislation put forth by many countries
+  #D&I focuses on positives of managing diversity legislation well
+  #Diversity: the collective mixture of differences and similarities that includes, for example, individual and organizational
+  #characteristics, values, beliefs, experiences, backgrounds, preferences, and behaviors
+  #Inclusion: The achievement of a work environment in which all individuals are treated fairly and respectfully, have equal
+  #access to opportunities and resources, and can contribute fully to the organization's success
+#Why focus on diversity and inclusion?
+  #Organizations taking action e.g. inclusiveness initiatives, unconscious bias training
+  #Leadership programs, minority-targetted programs
+  #Two reasons
+  #1) Social case for diversity: moral obligation to treat employees with fairness and dignity
+  #2) Diversity business case: several benefits cited by researchers and academics for diversity
+  #maximize people potential, better understand customers, draw from a wider candidate pool, 
+  #develop a more positive company image, engender greater discretionary effort from employees
+  #increase engagement, retention, innovation, team performance
+#Approaches to measuring & managing D&I
+ #Diversity Dashboards
+  #Describe characteristics of workforce within organization
+  #E.g. percentages for each job level
+  #Descriptive reports at quarterly or monthly intervals, don't have effect except for when external pressure exerts
+  #e.g. regulatory reports, legal challenges, benchmakring exercise
+ #Diversity benchmarking
+  #Knowing diversity statistics allows benchmarking D&I
+  #Companies include Stonewall, Business Disability Forum, The Times, Saratoga Human Capital Measurement and Benchmarking
+  #Ultimately descriptive D&I reports tend to be current "state of play" descriptive snapshots of the organization
+ #Moving towards predictive models
+  #To what extent can we rely on descriptive reports to provide us insights into D&I issues within the organization?
+  #incorporating preditive statistical methods can be used to enhance the analysis of diversity data
+#Example 1: Gender and job grade analysis using frequency tables and chi square
+  #
